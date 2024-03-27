@@ -2,9 +2,6 @@
 
 ```bash
 
-# verifique se está dentro desta pasta. Caso esteja na pasta "Desafio Oxeanbits":
-cd ToWatchList
-
 # instalar dependências
 npm install
 
