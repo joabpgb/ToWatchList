@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: #13161F;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+a {
+    color: #F0971A;
+    transition: .5s;
+}
+
+a:hover {
+    color: #a3660f;
+}
